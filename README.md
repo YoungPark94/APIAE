@@ -15,5 +15,5 @@ https://openreview.net/pdf?id=HyoOUrkwz
 
 1. To train APIAE for pendulum example, run 'train_pendulum.py'.
 2. To run pendulum planning demo by using trained APIAE, run 'demo_pendulum.py'.
-Without any modification, this code load the hyperparatmers (e.g. weights of neural networks) from 'weights_demo.pkl'.
+Without any modification, this code load the hyperparatmers (i.e. weights of neural networks) from 'weights_demo.pkl'.
 But you may change the name of file if you want to test with new APIAE network trained from step 1.
