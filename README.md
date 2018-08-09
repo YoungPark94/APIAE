@@ -2,6 +2,10 @@
 
 This is a tensorlfow implementation for the demonstration of Pendulum experiment of the paper: "Adaptive Path-Integral Approach for Representation Learning and Planning of State Space Models"
 
+https://openreview.net/forum?id=HyoOUrkwz
+
+We updated our paper in Arxiv with more theoretical backgrounds and techniques. The code for Arxiv paper will be availabe after publishing.
+
 https://arxiv.org/abs/1807.02128
 
 ## Requirements
