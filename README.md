@@ -5,8 +5,7 @@ https://openreview.net/forum?id=HyoOUrkwz
 
 We updated our paper in Arxiv with more theoretical backgrounds and techniques:
 https://arxiv.org/abs/1807.02128.
-The code for Arxiv paper will be availabe after publish.
-
+https://github.com/yjparkLiCS/18-NIPS-APIAE.
 
 ## Requirements
 
